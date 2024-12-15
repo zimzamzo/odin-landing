@@ -1,0 +1,10 @@
+* {
+    color: red;
+}
+
+.header {
+    display: flex;
+    background-color: darkgray;
+    flex-direction: column;
+    align-items: center;
+}
