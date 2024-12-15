@@ -35,3 +35,42 @@
 .header-image {
     flex: 1;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .info-title {
+
+} */
+
+.info-images-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-image p {
+    text-align: center;
+}
+
+.quote {
+    padding: 20px;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    text-align: justify;
+    font-style: italic;
+}
+
+.quote-author {
+    text-align: right;
+}
