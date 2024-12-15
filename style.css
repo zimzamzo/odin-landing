@@ -108,3 +108,12 @@
     margin: 24px
 }
 
+.footer {
+    background-color: #1F2937;
+    padding: 30px;
+}
+.copyright {
+    color: white;
+    text-align: center;
+}
+
