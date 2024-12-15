@@ -74,3 +74,37 @@
 .quote-author {
     text-align: right;
 }
+
+.action {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+}
+
+.action-text-container {
+    margin: 36px;
+}
+
+.action-text-title {
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.action-text-subtitle {
+    /* color: white; */
+}
+
+.action button {
+    background-color: #3882F6;
+    border-color: white;
+    border-radius: 24px;
+    border-style: solid;
+    height: 40px;
+    width: 100px;
+    color: white;
+    margin: 24px
+}
+
