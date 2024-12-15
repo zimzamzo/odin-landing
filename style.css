@@ -1,17 +1,17 @@
 * {
-    color: red;
+    /* color: red; */
 }
 
 .header {
     display: flex;
-    background-color: darkgray;
+    background-color: #1F2937;
     flex-direction: column;
     align-items: stretch;
 }
 
 .header-top {
     display: flex;
-    background-color: black;
+    /* background-color: black; */
     /* flex: 1; */
     /* justify-content: flex-end; */
 }
@@ -21,5 +21,17 @@
 }
 
 /* .header-link {
-    flex: 1;
+    
 } */
+
+.header-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: brown; */
+}
+
+.header-text,
+.header-image {
+    flex: 1;
+}
